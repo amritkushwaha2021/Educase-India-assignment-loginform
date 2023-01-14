@@ -277,4 +277,19 @@ button[type=submit] {
     button[type=submit] {
         width: 100%;
     }
+
+    .fpassword {
+        width: 113px;
+    }
+
+    .sociallogin {
+        width: 66%;
+    }
+
+    .createnew {
+        width: 214px;
+    }
+    .terms-conditions{
+        width: 270px;
+    }
 }
