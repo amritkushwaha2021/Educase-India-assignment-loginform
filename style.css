@@ -98,7 +98,7 @@ input[type=text] {
     width: 100%;
     height: 50px;
     /* UI Properties */
-    background: none 0% 0% no-repeat padding-box;
+    background: #ffffff4d 0% 0% no-repeat padding-box;
     border: 1px solid #E70B89;
     border-radius: 26px;
     opacity: 1;
